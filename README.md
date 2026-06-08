@@ -85,14 +85,6 @@ I'm actively looking for **internship opportunities** (2026–2027) in:
 
 ---
 
-## 📊 GitHub Stats (Will grow with time 🚀)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dhya-Purohit&show_icons=true&theme=default&hide_title=true&count_private=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dhya-Purohit&theme=default" width="45%" />
-</p>
-
----
 
 <p align="center">
   <i>"I don't know everything yet — but I'm showing up every day until I do."</i>
